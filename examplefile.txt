@@ -1,0 +1,14 @@
+git init:			initializes repository
+git add <file_name>:		adds file
+git add .:			adds all files
+git diff:			showsdifference between what has changed 
+git commit -m:			commits stage content
+git branch:			lists all branches and shows which you're currently in
+git branch -b <branch name>:	adds branch
+git checkout:			switches to another branch
+git merge <branch>:		merges specified branch to current branch
+git rm <file_name>:		removes file
+git remote add [alias][URL]:	adds git URL to alias
+git push [alias][branch]:	pushes local branch commits to remote repository
+git pull:			pulls and merges any commits from the remote branch
+
